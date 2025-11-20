@@ -1,0 +1,379 @@
+{
+  "skills": [
+    "Automotive Engineering",
+    "Mechanical Design",
+    "CAD Modeling",
+    "Electrical Systems Design",
+    "Embedded Systems",
+    "Diagnostics and Troubleshooting",
+    "Quality Control",
+    "Lean Manufacturing",
+    "Supply Chain Management",
+    "Vehicle Assembly",
+    "Engine Calibration",
+    "Welding",
+    "Robotics Programming",
+    "Mechatronics",
+    "CAN Bus Analysis",
+    "HVAC Systems",
+    "Battery Management Systems",
+    "Prototyping",
+    "3D Printing",
+    "Firmware Development",
+    "Automotive Painting",
+    "CNC Machining",
+    "Materials Science",
+    "Failure Analysis",
+    "Project Management",
+    "Agile Development",
+    "Vehicle Dynamics",
+    "Testing and Validation",
+    "Data Analysis",
+    "Telematics Integration",
+    "Hydraulics",
+    "Pneumatics",
+    "Safety Compliance",
+    "ISO 9001 Knowledge",
+    "Inventory Management",
+    "Logistics Coordination",
+    "Customer Support",
+    "Technical Documentation",
+    "Product Design",
+    "Automation Engineering"
+  ],
+  "job_positions": [
+    "Automotive Engineer",
+    "Mechanical Engineer",
+    "Electrical Engineer",
+    "Embedded Systems Engineer",
+    "Vehicle Technician",
+    "Quality Assurance Engineer",
+    "Manufacturing Technician",
+    "Production Line Worker",
+    "Manufacturing Engineer",
+    "Industrial Engineer",
+    "Robotics Engineer",
+    "CNC Machinist",
+    "Welding Specialist",
+    "Paint Technician",
+    "Body Shop Technician",
+    "Engine Calibration Engineer",
+    "Battery Systems Engineer",
+    "HVAC Engineer",
+    "Test Driver",
+    "Vehicle Dynamics Engineer",
+    "Prototype Technician",
+    "Product Designer",
+    "UX/UI Designer (Infotainment)",
+    "Software Engineer",
+    "Firmware Engineer",
+    "Telematics Engineer",
+    "Supply Chain Manager",
+    "Logistics Coordinator",
+    "Inventory Specialist",
+    "Procurement Officer",
+    "Project Manager",
+    "Plant Manager",
+    "Shift Supervisor",
+    "Quality Control Inspector",
+    "Safety Officer",
+    "Materials Scientist",
+    "Data Analyst",
+    "Customer Support Specialist",
+    "Technical Writer",
+    "Service Advisor",
+    "Sales Representative",
+    "Dealership Manager"
+  ],
+  "job_skills": [
+    {
+      "Automotive Engineer": [
+        "Automotive Engineering",
+        "Vehicle Dynamics",
+        "Testing and Validation",
+        "Diagnostics and Troubleshooting",
+        "Quality Control"
+      ]
+    },
+    {
+      "Mechanical Engineer": [
+        "Mechanical Design",
+        "CAD Modeling",
+        "Materials Science",
+        "Prototyping",
+        "Failure Analysis"
+      ]
+    },
+    {
+      "Electrical Engineer": [
+        "Electrical Systems Design",
+        "Embedded Systems",
+        "CAN Bus Analysis",
+        "Battery Management Systems",
+        "Diagnostics and Troubleshooting"
+      ]
+    },
+    {
+      "Embedded Systems Engineer": [
+        "Embedded Systems",
+        "Firmware Development",
+        "Telematics Integration",
+        "Diagnostics and Troubleshooting",
+        "Testing and Validation"
+      ]
+    },
+    {
+      "Manufacturing Engineer": [
+        "Lean Manufacturing",
+        "Robotics Programming",
+        "Automation Engineering",
+        "Quality Control",
+        "Industrial Engineering"
+      ]
+    },
+    {
+      "Production Line Worker": [
+        "Vehicle Assembly",
+        "Quality Control",
+        "Safety Compliance",
+        "Inventory Management",
+        "Manufacturing Processes"
+      ]
+    },
+    {
+      "CNC Machinist": [
+        "CNC Machining",
+        "Materials Science",
+        "Precision Manufacturing",
+        "Quality Control",
+        "Mechanical Systems"
+      ]
+    },
+    {
+      "Welding Specialist": [
+        "Welding",
+        "Fabrication",
+        "Safety Compliance",
+        "Quality Inspection",
+        "Mechanical Systems"
+      ]
+    },
+    {
+      "Battery Systems Engineer": [
+        "Battery Management Systems",
+        "Electrical Systems Design",
+        "Thermal Management",
+        "Diagnostics and Troubleshooting",
+        "Testing and Validation"
+      ]
+    },
+    {
+      "Robotics Engineer": [
+        "Robotics Programming",
+        "Automation Engineering",
+        "Mechatronics",
+        "Industrial Controls",
+        "Lean Manufacturing"
+      ]
+    },
+    {
+      "Quality Assurance Engineer": [
+        "Quality Control",
+        "ISO 9001 Knowledge",
+        "Failure Analysis",
+        "Testing and Validation",
+        "Documentation"
+      ]
+    },
+    {
+      "Supply Chain Manager": [
+        "Supply Chain Management",
+        "Logistics Coordination",
+        "Inventory Management",
+        "Procurement",
+        "Data Analysis"
+      ]
+    },
+    {
+      "Service Advisor": [
+        "Customer Support",
+        "Diagnostics and Troubleshooting",
+        "Technical Documentation",
+        "Vehicle Knowledge",
+        "Communication Skills"
+      ]
+    },
+    {
+      "Technical Writer": [
+        "Technical Documentation",
+        "Product Knowledge",
+        "Testing and Validation",
+        "Quality Control",
+        "Communication Skills"
+      ]
+    }
+  ],
+  "employee_skills" : [
+    {
+        "EMP001": [
+            "Automotive Engineering",
+            "Vehicle Dynamics",
+            "Testing and Validation",
+            "Diagnostics and Troubleshooting"
+        ]
+    },
+    {
+        "EMP002": [
+            "Mechanical Design",
+            "CAD Modeling",
+            "Materials Science",
+            "Prototyping"
+        ]
+    },
+    {
+        "EMP003": [
+            "Electrical Systems Design",
+            "CAN Bus Analysis",
+            "Battery Management Systems",
+            "Diagnostics and Troubleshooting"
+        ]
+    },
+    {
+        "EMP004": [
+            "Embedded Systems",
+            "Firmware Development",
+            "Telematics Integration",
+            "Testing and Validation"
+        ]
+    },
+    {
+        "EMP005": [
+            "Vehicle Assembly",
+            "Quality Control",
+            "Safety Compliance",
+            "Inventory Management"
+        ]
+    },
+    {
+        "EMP006": [
+            "Robotics Programming",
+            "Automation Engineering",
+            "Lean Manufacturing",
+            "Mechatronics"
+        ]
+    },
+    {
+        "EMP007": [
+            "CNC Machining",
+            "Materials Science",
+            "Precision Manufacturing",
+            "Quality Control"
+        ]
+    },
+    {
+        "EMP008": [
+            "Welding",
+            "Fabrication",
+            "Safety Compliance"
+        ]
+    },
+    {
+        "EMP009": [
+            "Battery Management Systems",
+            "Electrical Systems Design",
+            "Thermal Management",
+            "Testing and Validation"
+        ]
+    },
+    {
+        "EMP010": [
+            "HVAC Systems",
+            "Diagnostics and Troubleshooting",
+            "Mechanical Design"
+        ]
+    },
+    {
+        "EMP011": [
+            "Product Design",
+            "3D Printing",
+            "Prototyping"
+        ]
+    },
+    {
+        "EMP012": [
+            "Data Analysis",
+            "Project Management",
+            "Agile Development"
+        ]
+    },
+    {
+        "EMP013": [
+            "Customer Support",
+            "Technical Documentation",
+            "Communication Skills"
+        ]
+    },
+    {
+        "EMP014": [
+            "Supply Chain Management",
+            "Inventory Management",
+            "Logistics Coordination"
+        ]
+    },
+    {
+        "EMP015": [
+            "Automotive Painting",
+            "Vehicle Assembly",
+            "Quality Control"
+        ]
+    }
+],
+   "employee_positions": [
+    {
+      "EMP001": "Automotive Engineer"
+    },
+    {
+      "EMP002": "Mechanical Engineer"
+    },
+    {
+      "EMP003": "Electrical Engineer"
+    },
+    {
+      "EMP004": "Embedded Systems Engineer"
+    },
+    {
+      "EMP005": "Production Line Worker"
+    },
+    {
+      "EMP006": "Robotics Engineer"
+    },
+    {
+      "EMP007": "CNC Machinist"
+    },
+    {
+      "EMP008": "Welding Specialist"
+    },
+    {
+      "EMP009": "Battery Systems Engineer"
+    },
+    {
+      "EMP010": "Electrical Engineer"
+    },
+    {
+      "EMP011": "Product Designer"
+    },
+    {
+      "EMP012": "Supply Chain Manager"
+    },
+    {
+      "EMP013": "Service Advisor"
+    },
+    {
+      "EMP014": "Supply Chain Manager"
+    },
+    {
+      "EMP015": "Production Line Worker"
+    }
+  ]
+}
+
